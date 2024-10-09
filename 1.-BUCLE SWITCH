@@ -1,0 +1,19 @@
+#include <iostream>
+Uso del espacio de nombres std;
+int main() {
+    int T;
+    cin>>T;
+ interruptor (T)
+    {
+ caso 12: cout<<T*2; quebrar;
+ caso 15: cout<<T*2.2; quebrar;
+ caso 18: cout<<T*4.5; quebrar;
+ caso 19:cout<<T*6; quebrar;
+ caso 23: cout<<T*6; quebrar;
+ caso 25: cout<<T*6; quebrar;
+ caso 29: cout<<T*5; quebrar;
+ defaul:cout<<"No existe la clave"; quebrar;
+    }
+    cout<<"el costo es:";
+ devuelve 0;
+}
